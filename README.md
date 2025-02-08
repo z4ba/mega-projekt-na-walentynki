@@ -30,6 +30,7 @@ python install_requirements.py
   plik otwierasz wpisując W KOLEJNOSCI komendy:
 ```
 cd Desktop/mega-projekt-na-walentynki-main
+python walentynki.py
 ```
 
 ## W PRZYPADKU JEZELI WYSKOCZY CI BŁĄD:
