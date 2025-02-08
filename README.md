@@ -21,7 +21,15 @@ python install_requirements.py
 ```
 
 ## W PRZYPADKU JEZELI WYSKOCZY CI BŁĄD:
-- Upewnij sie ze pobierasz plik w dobrym miejscu, na wszelki wypadek po prostu wpisz: 
+- Sprawdz czy pobierasz wszystko do dobrego directory, mozesz to sprawdzic wpisujac w terminal
+```
+cd
+```
+- Powinno wyglądać to w ten sposób: 
+
+![image](https://github.com/user-attachments/assets/653cb101-bdca-43ec-a6c4-d484ac45e27c)
+
+- Jezeli nie wyglada to tak jak na obrazku mozesz wpisac: 
 ```
 cd ../<Twoja nazwa uzytkownika>
 ```
