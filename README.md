@@ -6,7 +6,8 @@ Swietny amatorski projekt zrobiony przeze mnie dla ciebie na walentynki
 - Dowiesz się jak odpalisz
 
 ## Wymagania
-- Pillow: Do obrazkow
+- Python (jak nie masz pobierz tutaj: https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe )
+- Pillow: Do obrazkow (instalujesz go w nastepnym kroku)
 
 ## Instalacja
 - Przed odpaleniem glownego pliku wykonaj następujące kroki:
