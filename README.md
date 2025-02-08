@@ -26,6 +26,12 @@ https://app.storylane.io/share/ortud0llhgue
 python install_requirements.py
 ```
 
+## Otwieranie pliku
+  plik otwierasz wpisując W KOLEJNOSCI komendy:
+```
+cd Desktop/mega-projekt-na-walentynki-main
+```
+
 ## W PRZYPADKU JEZELI WYSKOCZY CI BŁĄD:
 - Sprawdz czy pobierasz wszystko do dobrego directory, mozesz to sprawdzic wpisujac w terminal
 ```
