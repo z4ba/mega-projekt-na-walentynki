@@ -1,12 +1,12 @@
 # SuperProgram
 
-Swietny amatorski projekt zrobiony przeze mnie dla ciebie na walentynki
+  Swietny amatorski projekt zrobiony przeze mnie dla ciebie na walentynki
 
 ## Poradnik jak to w ogole pobrac:
 
-https://app.storylane.io/share/ortud0llhgue
+  https://app.storylane.io/share/ortud0llhgue
 
-# Wypakuj folder na pulpit po pobraniu zipa
+## Wypakuj folder na pulpit po pobraniu zipa
 
 ## Funkcja
 - Dowiesz się jak odpalisz
@@ -30,6 +30,9 @@ python install_requirements.py
   plik otwierasz wpisując W KOLEJNOSCI komendy:
 ```
 cd Desktop/mega-projekt-na-walentynki-main
+```
+  a nastepnie
+```
 python walentynki.py
 ```
 
