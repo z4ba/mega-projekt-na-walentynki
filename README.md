@@ -2,6 +2,10 @@
 
 Swietny amatorski projekt zrobiony przeze mnie dla ciebie na walentynki
 
+# Poradnik jak to w ogole pobrac:
+
+https://app.storylane.io/share/ortud0llhgue
+
 ## Funkcja
 - Dowiesz się jak odpalisz
 
