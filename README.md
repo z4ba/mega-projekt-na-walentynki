@@ -2,9 +2,11 @@
 
 Swietny amatorski projekt zrobiony przeze mnie dla ciebie na walentynki
 
-# Poradnik jak to w ogole pobrac:
+## Poradnik jak to w ogole pobrac:
 
 https://app.storylane.io/share/ortud0llhgue
+
+# Wypakuj folder na pulpit po pobraniu zipa
 
 ## Funkcja
 - Dowiesz się jak odpalisz
