@@ -49,6 +49,6 @@ cd
 ```
 cd ../<Twoja nazwa uzytkownika>
 ```
-(przy wpisywaniu tej komendy nie wklejaj znakow mniejszosci i wiekszosci ( < > )!!)
+(przy wpisywaniu tej komendy nie uzywaj znakow mniejszosci i wiekszosci ( < > )!!)
 
 
