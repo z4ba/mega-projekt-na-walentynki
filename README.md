@@ -7,6 +7,7 @@
   https://app.storylane.io/share/ortud0llhgue
 
 ## Wypakuj folder na pulpit po pobraniu zipa
+- jest opcja ze bedzie jeszcze jeden folder w srodku, zalezy to od tego w jaki sposob go wypakujesz, po prostu wypakuj go jeszcze raz
 
 ## Funkcja
 - Dowiesz się jak odpalisz
@@ -20,18 +21,19 @@
 
 - Kliknij na klawiaturze klawisz windows + R
 - W okienku ktore ci wyskoczy wpisz: cmd
-- W otworzonym terminalu wklej ponizsza komende i kliknij Enter
+- W otworzonym terminalu wklej ponizsze komendy W KOLEJNOSCI i kliknij Enter po wpisaniu kazdej
+
+```
+cd Desktop/mega-projekt-na-walentynki-main
+```
 
 ```
 python install_requirements.py
 ```
 
 ## Otwieranie pliku
-  plik otwierasz wpisując W KOLEJNOSCI komendy:
-```
-cd Desktop/mega-projekt-na-walentynki-main
-```
-  a nastepnie
+  plik otwierasz wpisując komendę:
+
 ```
 python walentynki.py
 ```
