@@ -1,6 +1,6 @@
 # SuperProgram
 
-  Swietny amatorski projekt zrobiony przeze mnie dla ciebie na walentynki
+  Swietny amatorski projekt made with love przeze mnie dla ciebie na walentynki
 
 ## Poradnik jak to w ogole pobrac:
 
