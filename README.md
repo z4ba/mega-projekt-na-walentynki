@@ -49,7 +49,7 @@ cd
 
 - Jezeli nie wyglada to tak jak na obrazku mozesz wpisac: 
 ```
-cd ../<Twoja nazwa uzytkownika>
+cd ./<Twoja nazwa uzytkownika>/Desktop/mega-projekt-na-walentynki-main
 ```
 (przy wpisywaniu tej komendy nie uzywaj znakow mniejszosci i wiekszosci ( < > )!!)
 
