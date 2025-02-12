@@ -45,7 +45,7 @@ cd
 ```
 - Powinno wyglądać to w ten sposób: 
 
-![image](https://github.com/user-attachments/assets/653cb101-bdca-43ec-a6c4-d484ac45e27c)
+![image](https://github.com/user-attachments/assets/6844cbd1-6d06-461a-a88d-6d927b1f2de1)
 
 - Jezeli nie wyglada to tak jak na obrazku mozesz wpisac: 
 ```
